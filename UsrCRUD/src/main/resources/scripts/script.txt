@@ -1,0 +1,14 @@
+#MYSQL
+CREATE SCHEMA `crud` ;
+
+CREATE TABLE `crud`.`usuario` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `nombre` VARCHAR(255) NULL,
+  `edad` INT NULL,
+  `fecha_alta` DATE NULL,
+  `fecha_baja` DATE NULL,
+  `estatus` TINYINT(1) NULL,
+  PRIMARY KEY (`id`));
+
+# GIT
+https://github.com/lordchavez/crud

@@ -1,0 +1,7 @@
+com.usuario.usr
+com.usuario.usr.controller
+com.usuario.usr.dao
+com.usuario.usr.dao.impl
+com.usuario.usr.entity
+com.usuario.usr.services
+com.usuario.usr.services.impl
